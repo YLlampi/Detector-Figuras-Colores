@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-
 def figColor(imagenHSV):
     # Rojo
     rojoBajo1 = np.array([0, 100, 20], np.uint8)
